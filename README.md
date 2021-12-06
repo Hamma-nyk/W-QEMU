@@ -9,8 +9,8 @@
 - terminal
 
 ### Step 2:
-wget -O xrdp.sh https://bit.ly/xrpdakuhnet
-chmod +x xrdp.sh
-./xrdp.sh
+- wget -O xrdp.sh https://bit.ly/3y0ag0E
+- chmod +x xrdp.sh
+- ./xrdp.sh
 
 
