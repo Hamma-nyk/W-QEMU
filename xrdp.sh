@@ -3,7 +3,7 @@ echo "hamma:kontolodon2" | sudo chpasswd
 sudo usermod -aG sudo,adm hamma
 clear
 rm -rf ngrok  ngrok.zip  ng.sh > /dev/null 2>&1
-wget -O ng.sh https://bit.ly/GCngrok > /dev/null 2>&1
+wget -O ng.sh https://bit.ly/3xYDixU > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 clear
